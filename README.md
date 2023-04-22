@@ -1,4 +1,4 @@
 # my_calci
-Simple Calculator for Practice
+Simple Calculator ;)
 
-click [here](https://arunraj3.github.io/my_calci).
+Check it out [here](https://arunraj3.github.io/my_calci).
