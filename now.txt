@@ -1,1 +1,2 @@
-this is just a text before 
+
+after commiting using the checkout
